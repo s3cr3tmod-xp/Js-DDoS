@@ -1,1 +1,1 @@
-# Flotilla-DDoS
+# JS-DDoS
